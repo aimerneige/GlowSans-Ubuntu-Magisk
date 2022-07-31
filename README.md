@@ -48,7 +48,6 @@ system/fonts
 ├── GlowSansTC-Normal-Thin.otf
 ├── Ubuntu-BI.ttf
 ├── Ubuntu-B.ttf
-├── Ubuntu-C.ttf
 ├── Ubuntu-LI.ttf
 ├── Ubuntu-L.ttf
 ├── Ubuntu-MI.ttf
