@@ -40,7 +40,7 @@
    </family>
     <!-- lxgw 注：其次调用自定义字体，自定义字体将在 CJK 部分再次调用 -->
     <family>
-        <font weight="100" style="normal">Ubuntu-Th.ttf</font>
+        <font weight="100" style="normal">Ubuntu-L.ttf</font>
         <font weight="200" style="normal">Ubuntu-L.ttf</font>
         <font weight="300" style="normal">Ubuntu-L.ttf</font>
         <font weight="400" style="normal">Ubuntu-R.ttf</font>
@@ -49,7 +49,7 @@
         <font weight="700" style="normal">Ubuntu-M.ttf</font>
         <font weight="800" style="normal">Ubuntu-B.ttf</font>
         <font weight="900" style="normal">Ubuntu-B.ttf</font>
-        <font weight="100" style="italic">Ubuntu-Th.ttf</font>
+        <font weight="100" style="italic">Ubuntu-LI.ttf</font>
         <font weight="200" style="italic">Ubuntu-LI.ttf</font>
         <font weight="300" style="italic">Ubuntu-LI.ttf</font>
         <font weight="400" style="italic">Ubuntu-RI.ttf</font>
@@ -1510,7 +1510,7 @@
     </family>
     <!-- lxgw 注：CJK 部分首先调用西文字体 -->
     <family lang="zh-Hans">
-        <font weight="100" style="normal">Ubuntu-Th.ttf</font>
+        <font weight="100" style="normal">Ubuntu-L.ttf</font>
         <font weight="200" style="normal">Ubuntu-L.ttf</font>
         <font weight="300" style="normal">Ubuntu-L.ttf</font>
         <font weight="400" style="normal">Ubuntu-R.ttf</font>
@@ -1519,7 +1519,7 @@
         <font weight="700" style="normal">Ubuntu-M.ttf</font>
         <font weight="800" style="normal">Ubuntu-B.ttf</font>
         <font weight="900" style="normal">Ubuntu-B.ttf</font>
-        <font weight="100" style="italic">Ubuntu-Th.ttf</font>
+        <font weight="100" style="italic">Ubuntu-LI.ttf</font>
         <font weight="200" style="italic">Ubuntu-LI.ttf</font>
         <font weight="300" style="italic">Ubuntu-LI.ttf</font>
         <font weight="400" style="italic">Ubuntu-RI.ttf</font>
@@ -1530,7 +1530,7 @@
         <font weight="900" style="italic">Ubuntu-BI.ttf</font>
     </family>
     <family lang="zh-Hant">
-        <font weight="100" style="normal">Ubuntu-Th.ttf</font>
+        <font weight="100" style="normal">Ubuntu-L.ttf</font>
         <font weight="200" style="normal">Ubuntu-L.ttf</font>
         <font weight="300" style="normal">Ubuntu-L.ttf</font>
         <font weight="400" style="normal">Ubuntu-R.ttf</font>
@@ -1539,7 +1539,7 @@
         <font weight="700" style="normal">Ubuntu-M.ttf</font>
         <font weight="800" style="normal">Ubuntu-B.ttf</font>
         <font weight="900" style="normal">Ubuntu-B.ttf</font>
-        <font weight="100" style="italic">Ubuntu-Th.ttf</font>
+        <font weight="100" style="italic">Ubuntu-LI.ttf</font>
         <font weight="200" style="italic">Ubuntu-LI.ttf</font>
         <font weight="300" style="italic">Ubuntu-LI.ttf</font>
         <font weight="400" style="italic">Ubuntu-RI.ttf</font>
@@ -1550,7 +1550,7 @@
         <font weight="900" style="italic">Ubuntu-BI.ttf</font>
     </family>
     <family lang="ja">
-        <font weight="100" style="normal">Ubuntu-Th.ttf</font>
+        <font weight="100" style="normal">Ubuntu-L.ttf</font>
         <font weight="200" style="normal">Ubuntu-L.ttf</font>
         <font weight="300" style="normal">Ubuntu-L.ttf</font>
         <font weight="400" style="normal">Ubuntu-R.ttf</font>
@@ -1559,7 +1559,7 @@
         <font weight="700" style="normal">Ubuntu-M.ttf</font>
         <font weight="800" style="normal">Ubuntu-B.ttf</font>
         <font weight="900" style="normal">Ubuntu-B.ttf</font>
-        <font weight="100" style="italic">Ubuntu-Th.ttf</font>
+        <font weight="100" style="italic">Ubuntu-LI.ttf</font>
         <font weight="200" style="italic">Ubuntu-LI.ttf</font>
         <font weight="300" style="italic">Ubuntu-LI.ttf</font>
         <font weight="400" style="italic">Ubuntu-RI.ttf</font>
@@ -1570,7 +1570,7 @@
         <font weight="900" style="italic">Ubuntu-BI.ttf</font>
     </family>
     <family lang="ko">
-        <font weight="100" style="normal">Ubuntu-Th.ttf</font>
+        <font weight="100" style="normal">Ubuntu-L.ttf</font>
         <font weight="200" style="normal">Ubuntu-L.ttf</font>
         <font weight="300" style="normal">Ubuntu-L.ttf</font>
         <font weight="400" style="normal">Ubuntu-R.ttf</font>
@@ -1579,7 +1579,7 @@
         <font weight="700" style="normal">Ubuntu-M.ttf</font>
         <font weight="800" style="normal">Ubuntu-B.ttf</font>
         <font weight="900" style="normal">Ubuntu-B.ttf</font>
-        <font weight="100" style="italic">Ubuntu-Th.ttf</font>
+        <font weight="100" style="italic">Ubuntu-LI.ttf</font>
         <font weight="200" style="italic">Ubuntu-LI.ttf</font>
         <font weight="300" style="italic">Ubuntu-LI.ttf</font>
         <font weight="400" style="italic">Ubuntu-RI.ttf</font>

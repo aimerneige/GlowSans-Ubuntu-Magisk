@@ -53,6 +53,5 @@ system/fonts
 ├── Ubuntu-MI.ttf
 ├── Ubuntu-M.ttf
 ├── Ubuntu-RI.ttf
-├── Ubuntu-R.ttf
-└── Ubuntu-Th.ttf
+└── Ubuntu-R.ttf
 ```
