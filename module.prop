@@ -1,6 +1,6 @@
-id=com.aimerneige.glow.sans.magisk
-name=GlowSans-Magisk-Advance
+id=com.aimerneige.glow.sans.ubuntu.magisk
+name=GlowSans-Ubuntu-Magisk
 version=Advanced v1.0.220731
 versionCode=1
 author=AimerNeige (github.com/aimerneige)
-description=使用「CJK 字体 Magisk 模块模板 高级版」制作的「未来荧黑」字体模块。
+description=使用「CJK 字体 Magisk 模块模板 高级版」制作的「未来荧黑」+「Ubuntu」字体模块。
