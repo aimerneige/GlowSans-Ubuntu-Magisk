@@ -1,6 +1,6 @@
 # GlowSans-Ubuntu-Magisk
 
-使用[「CJK 字体 Magisk 模块模板 高级版」](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)制作的[「未来荧黑」](https://github.com/welai/glow-sans) + [「Ubuntu」](https://design.ubuntu.com/font/)字体模块。
+使用[「CJK 字体 Magisk 模块模板 高级版」](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)制作的[「未来荧黑」](https://github.com/welai/glow-sans)+[「Ubuntu」](https://design.ubuntu.com/font/)字体模块。
 
 [字体模板说明](README-lxgw.md)
 
